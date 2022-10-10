@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @reneghar95, but you can call me Fran as well!
+- 👀 I’m interested in Game Development and Design, TTRPGs and geek stuff in general
+- 🌱 I’m currently learning Videogames Development with Unity!
+- 💞️ I’m looking to collaborate on small GameDev projects for experience in the field
+- 📫 You can contact me through DM on Git and on my email franguilman95@gmail.com
